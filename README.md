@@ -44,9 +44,6 @@ The constructor initializes the contract with Spider-Man's address and sets the 
 
 2. Use the provided functions to manage access and perform Spider-Man's actions.
 
-## License
-
-This contract is provided under an unlicensed status. See the [UNLICENSE](UNLICENSE) file for details.
 
 ## Project Setup Instructions
 
